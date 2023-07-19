@@ -31,7 +31,7 @@ with a focus on blockchain and other emerging technologies
 - Ensuring compliance with legal and regulatory requirements related to recruitment and hiring practices
 - Managing relationships with external recruiting agencies and vendors as needed
   
- [Prove of work at xapic Technologies](/Daily_Sheet.csv.xlsx)
+ [Prove of work @ xapic Technologies](/Daily_Sheet.csv.xlsx)
 
 ### Talent Acquisition Specialist | Hybrid
 #### Oct 2019 – Jan 2021 Zijela ICT (Lagos, Nigeria)
