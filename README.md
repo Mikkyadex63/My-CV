@@ -1,7 +1,8 @@
 # Michael Adeyemi Ademeso
 ### Contact
-[Email](ademesomichael2@gmail.com)</br>
-[Linkedin](https://www.linkedin.com/in/michael-ademeso/)
+- [Email](ademesomichael2@gmail.com)</br>
+- [Linkedin](https://www.linkedin.com/in/michael-ademeso/)</br>
+- [Phone](+2349123559437)
 ## Resume
 ## PROFESSIONAL PROFILE
 As an HR tech recruiter, I have been sourcing, screening, and hiring candidates for technical positions. In my current role with a
@@ -52,4 +53,9 @@ B.Sc. Computer Science
 ![Great Learning Perfomance Management Certification](/Certifications/Performance_Management.png)
 #### DevSkiller Tech Recruitment Certified Professional
 ![DevSkiller Tech Recruitment Certified Professional](/Certifications/Tech_Recruitment_Badge.png)
-  
+#### Automating Employee Onboarding Badge
+![Automating_Employee_Onboarding_Badge](/Certifications/Airslate.jpeg)
+#### Certificate of Completion For Hirist Employer Branding Certification Course
+![certificate of completion for hirist employer branding certification course](/Certifications/Hirist_employer_branding.jpeg)
+#### Hirist Tech Recruitment Certification
+![hirist tech recruitment certification](/Certifications/Hirist_tech_recruiter.jpeg)
