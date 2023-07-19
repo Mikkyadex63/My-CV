@@ -11,14 +11,6 @@ and web3 landscape enable me to identify and attract highly skilled candidates w
 clients. Overall, my unique skill set and experience in both HR tech recruitment and blockchain/web3 staffing and contracting
 make me a valuable asset in the tech industry.
 
-## CERTIFICATION
-- AirSlate Automatic Employee Onboarding Certification
-- Hirist Employee Branding Certification
-- Great Learning Human Resource Management Certification
-- Great Learning Perfomance Management Certification
-- DevSkiller Tech Recruitment Certified Professional
-- Hirist Tech Recruitment Certification
-  
 ## EXPERIENCE
 ### Technical Recruiter | Remote
 #### Feb 2021 – Present Xapic Technologies (Lagos, Nigeria)
@@ -52,3 +44,12 @@ with a focus on blockchain and other emerging technologies
 ## EDUCATION
 Ajayi Crowther University, Oyo </br>
 B.Sc. Computer Science
+
+## CERTIFICATION
+#### Great Learning Human Resource Management Certification
+![Great Learning Human Resource Management Certification](/Certifications/Human_Resource_Management.png)
+#### Great Learning Perfomance Management Certification
+![Great Learning Perfomance Management Certification](/Certifications/Performance_Management.png)
+#### DevSkiller Tech Recruitment Certified Professional
+![DevSkiller Tech Recruitment Certified Professional](/Certifications/Tech_Recruitment_Badge.png)
+  
