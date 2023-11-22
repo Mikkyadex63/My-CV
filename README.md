@@ -5,29 +5,30 @@
 - [Phone](+2349123559437)
 ## Resume
 ## PROFESSIONAL PROFILE
-As an HR tech recruiter, I have been sourcing, screening, and hiring candidates for technical positions. In my current role with a
-blockchain and web3 training, staffing, and contracting company, I am responsible for identifying, staffing, and contracting
-technical talent for various projects and clients. My experience in HR tech recruitment and deep understanding of the blockchain
-and web3 landscape enable me to identify and attract highly skilled candidates who can contribute to the success of the company's
-clients. Overall, my unique skill set and experience in both HR tech recruitment and blockchain/web3 staffing and contracting
-make me a valuable asset in the tech industry.
+Dedicated and results-driven web3 Talent Acquisition Specialist with a proven track record in sourcing, recruiting and connecting
+Top-tier talent within the dynamic realms of Blockchain, Cryptocurrency and Fintech. Leveraging a background in Human
+Resources and a keen understanding of emerging technologies, I excel in crafting and executing innovative strategies to propel
+organizations to new heights. A strategic thinker and effective leader, I am committed to fostering and collaborative work
+environments that drive mutual growth and success. My proficiency in international sourcing, coupled with a passion for
+continuous learning, positions me as a valuable asset in navigating the ever-evolving landscape of the tech industry.
 
 ## EXPERIENCE
-### Technical Recruiter | Remote
-#### Feb 2021 – Present Xapic Technologies (Lagos, Nigeria)
-- Partnering with hiring managers and technical staff to understand staffing needs and develop recruitment strategies 
-- Sourcing and identifying potential candidates through various channels, such as job boards, social media, and employee referrals,
-with a focus on blockchain and other emerging technologies
-- Conducting initial phone screens and assessments to evaluate candidates' technical skills and experience
-- Coordinating and scheduling interviews with hiring managers and technical staff, and facilitating the candidate evaluation process
-- Providing guidance and support to candidates throughout the recruitment process, including feedback and updates on their candidacy
-- Ensuring compliance with legal and regulatory requirements related to recruitment and hiring practices
-- Managing relationships with external recruiting agencies and vendors as needed
+### Web3 Talent Acquisition Specialist | Remote
+#### Feb 2020 – Present Xapic Technologies (Lagos, Nigeria)
+- Candidates sourcing and CV pre-screening 
+- Daily communication with potential candidates
+- Database updating
+- Job market monitoring
+- International sourcing
+- Conducting Job postings through job portals
+- Conducting first level interview (Telephonic) to check communication Skills, technical skills, interest level, availability,
+salary, etc.
+- Proficiency with Greenhouse.
   
  [Prove of work @ xapic Technologies](/Daily_Sheet.csv.xlsx)
 
 ### Talent Acquisition Specialist | Hybrid
-#### Oct 2019 – Jan 2021 Zijela ICT (Lagos, Nigeria)
+#### Oct 2017 – Jan 2020 Zijela ICT (Lagos, Nigeria)
 - Source, recruit, and hire top talent for the organization across a variety of roles and departments.
 - Develop and execute innovative recruitment strategies to attract and retain top talent.
 - Create compelling job descriptions and job postings that effectively communicate our employer brand and culture.
