@@ -4,48 +4,51 @@
 - [Linkedin](https://www.linkedin.com/in/michael-ademeso/)</br>
 - [Phone](+2349123559437)
 ## Resume
+## Strategic HR Professional | Recruitment Coordinator
 ## PROFESSIONAL PROFILE
-Dedicated and results-driven web3 Talent Acquisition Specialist with a proven track record in sourcing, recruiting and connecting
-Top-tier talent within the dynamic realms of Blockchain, Cryptocurrency and Fintech. Leveraging a background in Human
-Resources and a keen understanding of emerging technologies, I excel in crafting and executing innovative strategies to propel
-organizations to new heights. A strategic thinker and effective leader, I am committed to fostering and collaborative work
-environments that drive mutual growth and success. My proficiency in international sourcing, coupled with a passion for
-continuous learning, positions me as a valuable asset in navigating the ever-evolving landscape of the tech industry.
+Results-driven HR professional with expertise in recruitment coordination and talent acquisition. Proven ability in managing end-to-end hiring processes, scheduling interviews, and ensuring a positive candidate experience. Skilled in utilizing Applicant Tracking Systems (ATS) and providing administrative support. Adept at fostering collaboration between hiring teams and contributing to employer branding initiatives. Seeking opportunities to bring efficiency to recruitment processes and contribute to organizational success.
 
 ## EXPERIENCE
 ### Web3 Talent Acquisition Specialist | Remote
 #### Feb 2020 – Present Xapic Technologies (Lagos, Nigeria)
-- Candidates sourcing and CV pre-screening 
-- Daily communication with potential candidates
-- Database updating
-- Job market monitoring
-- International sourcing
-- Conducting Job postings through job portals
-- Conducting first level interview (Telephonic) to check communication Skills, technical skills, interest level, availability,
-salary, etc.
-- Proficiency with Greenhouse.
-  
- [Prove of work @ xapic Technologies](/Daily_Sheet.csv.xlsx)
+- Coordinated end-to-end recruitment processes, scheduling interviews and ensuring a positive candidate experience.
+- Managed communication with hiring managers, ensuring alignment with staffing needs and recruitment strategies.
+- Managed communication with hiring managers, ensuring alignment with staffing needs and recruitment strategies.
+- Utilized ATS to maintain accurate candidate records and track progress throughout the hiring process.
+- Contributed to the development of Xapic Technologies' employer brand within the Web3 community.
 
 ### Talent Acquisition Specialist | Hybrid
 #### Oct 2017 – Jan 2020 Zijela ICT (Lagos, Nigeria)
-- Source, recruit, and hire top talent for the organization across a variety of roles and departments.
-- Develop and execute innovative recruitment strategies to attract and retain top talent.
-- Create compelling job descriptions and job postings that effectively communicate our employer brand and culture.
-- Analyze recruitment data to identify trends, evaluate recruitment strategies, and track key performance metrics.
-- Ensure a smooth onboarding process for new hires, including introducing them to the company culture and facilitating their
-  integration into the team.
+- Employed strategic sourcing methods, identified skilled professionals in the ICT sector.
+- Managed logistics of the recruitment process, from job posting to candidate selection.
+- Fostered relationships within the ICT community, expanding talent networks.
+- Maintained accurate and up-to-date candidate records in the ATS.
 
 ### Human Resources Intern | Onsite
 #### Apr 2017 – Sep 2017 TNT Networks Services (Lagos, Nigeria)
-- Sourcing and identifying potential candidates through various channels, such as job boards, social media, and employee referrals
-- Screening resumes and conducting phone screens to assess candidates' qualifications and fit for the role
-- Assisting with the preparation of job descriptions and interview questions
-- Participating in team meetings to gain exposure to the recruitment process and provide input on candidate selection
-
+- Assisted in HR operations and documentation, gaining exposure to recruitment and employee relations.
+- Contributed to the onboarding process, ensuring seamless integration for new employees.
+- Supported HR in maintaining compliance with labor laws and benefits administration.
+  
 ## EDUCATION
 Ajayi Crowther University, Oyo </br>
 B.Sc. Computer Science
+
+## SKILLS
+- Recruitment Coordination
+- Interview Scheduling
+- Strategic Recruitment
+- Collaboration & Communication
+- Administrative Support
+- Attention to Detail
+- Employer Branding
+- Adaptability in a Fast-paced Environment
+- Candidate Assessment
+- Employer Branding
+- Data Management & ATS Proficiency
+- Innovative Recruitment Strategies
+
+
 
 ## CERTIFICATION
 #### Great Learning Human Resource Management Certification
