@@ -48,8 +48,6 @@ B.Sc. Computer Science
 - Data Management & ATS Proficiency
 - Innovative Recruitment Strategies
 
-
-
 ## CERTIFICATION
 #### Great Learning Human Resource Management Certification
 ![Great Learning Human Resource Management Certification](/Certifications/Human_Resource_Management.png)
@@ -63,6 +61,3 @@ B.Sc. Computer Science
 ![certificate of completion for hirist employer branding certification course](/Certifications/Hirist_employer_branding.jpeg)
 #### Hirist Tech Recruitment Certification
 ![hirist tech recruitment certification](/Certifications/Hirist_tech_recruiter.jpeg)
-#### Great Learning Blockchain Basics Certification
-![Great Learning Blockchain Basics Certification](/![Blockchain Basics](https://github.com/Mikkyadex63/My-Documents/assets/79311594/73466ce4-648b-4329-b0ad-144cabfb4ba6)
-)
