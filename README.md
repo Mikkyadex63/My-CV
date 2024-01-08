@@ -64,4 +64,5 @@ B.Sc. Computer Science
 #### Hirist Tech Recruitment Certification
 ![hirist tech recruitment certification](/Certifications/Hirist_tech_recruiter.jpeg)
 #### Great Learning Blockchain Basics Certification
-![Great Learning Blockchain Basics Certification](/Certifications/Blockchain Basics.png)
+![Great Learning Blockchain Basics Certification](/![Blockchain Basics](https://github.com/Mikkyadex63/My-Documents/assets/79311594/73466ce4-648b-4329-b0ad-144cabfb4ba6)
+)
