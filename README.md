@@ -63,3 +63,5 @@ B.Sc. Computer Science
 ![certificate of completion for hirist employer branding certification course](/Certifications/Hirist_employer_branding.jpeg)
 #### Hirist Tech Recruitment Certification
 ![hirist tech recruitment certification](/Certifications/Hirist_tech_recruiter.jpeg)
+#### Great Learning Blockchain Basics Certification
+![Great Learning Blockchain Basics Certification](/Certifications/Blockchain Basics.png)
