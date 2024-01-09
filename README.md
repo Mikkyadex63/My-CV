@@ -39,6 +39,8 @@ B.Sc. Computer Science
 - Interview Scheduling
 - Strategic Recruitment
 - Collaboration & Communication
+- Team Player
+- Customer Oriented
 - Administrative Support
 - Attention to Detail
 - Employer Branding
