@@ -43,6 +43,7 @@ B.Sc. Computer Science
 - Strategic Recruitment
 - Collaboration & Communication
 - Team Player
+- Problem-solving & Analytical
 - Customer Oriented
 - Administrative Support
 - Attention to Detail
