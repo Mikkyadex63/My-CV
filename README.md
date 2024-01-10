@@ -16,6 +16,9 @@ Results-driven HR professional with expertise in recruitment coordination and ta
 - Managed communication with hiring managers, ensuring alignment with staffing needs and recruitment strategies.
 - Utilized ATS to maintain accurate candidate records and track progress throughout the hiring process.
 - Contributed to the development of Xapic Technologies' employer brand within the Web3 community.
+- Work closely with our clients, Recruitment Room & Pariti, to Understand their unique Staffing requirements, ensuring a seamless 
+  alignment with their business objectives.
+
 
 ### Talent Acquisition Specialist | Hybrid
 #### Oct 2017 – Jan 2020 Zijela ICT (Lagos, Nigeria)
