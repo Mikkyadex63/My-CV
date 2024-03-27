@@ -10,24 +10,24 @@ Experienced Senior Recruiter with a focus on talent acquisition for blockchain a
 ## EXPERIENCE
 ### Senior recruiter | Remote
 #### Feb 2020 – Present Xapic Technologies (Lagos, Nigeria)
-● Talent acquisition for Blockchain & diverse roles.
-● Led team, used Jira for project management.
+● Talent acquisition for Blockchain & diverse roles.</br>
+● Led team, used Jira for project management.</br>
 ● Streamlined workflows, aided team formation.
 ### Technical & Non-Technical Recruiter | Remote
 #### April 2022 - August 2023 Pariti (Nairobi, Kenya)
-● Sourced and screened candidates for various positions.
-● Intermediary between candidates and clients.
+● Sourced and screened candidates for various positions.</br>
+● Intermediary between candidates and clients.</br>
 ● Aligned candidates with client needs for diverse roles.
 ### Talent Acquisition Specialist | Hybrid
 #### Oct 2017 – Jan 2020 Zijela ICT (Lagos, Nigeria)
-● Led end-to-end recruitment, enhancing candidate quality.
-● Provided administrative support, streamlining processes.
+● Led end-to-end recruitment, enhancing candidate quality.</br>
+● Provided administrative support, streamlining processes.</br>
 ● Conducted thorough interviews, ensuring rigorous evaluation.
 
 ### Human Resources Intern | Onsite
 #### Apr 2017 – Sep 2017 TNT Networks Services (Lagos, Nigeria)
-● Contributed to recruitment process, including screening and interviews.
-● Contributed to the onboarding process, ensuring seamless integration for new employees.
+● Contributed to recruitment process, including screening and interviews.</br>
+● Contributed to the onboarding process, ensuring seamless integration for new employees.</br>
 ● Ensured compliance with labor laws, participated in policy updates.
   
 ## EDUCATION
@@ -35,35 +35,34 @@ Ajayi Crowther University, Oyo </br>
 B.Sc. Computer Science
 
 ## SKILLS SUMMARY
-● Microsoft Office Suite                           (78%)
-● Microsoft Office Suite                           (78%)
-● Google Calendar                                  (95%)
-● ATS (Applicant Tracking System) Management       (70%)
+● Microsoft Office Suite                           (78%)</br>
+● Microsoft Office Suite                           (78%)</br>
+● Google Calendar                                  (95%)</br>
+● ATS (Applicant Tracking System) Management       (70%)</br>
 ● Organization & Multi-tasking                     (81%)
 
 ## SKILLS
-● Recruitment Coordination
-● Interview Scheduling
-● Strategic Recruitment
-● Collaboration & Communication
-● Team Player
-● Problem-solving & Analytical
-● Customer Oriented
-● Administrative Support
-● Attention to Detail
-● Employer Branding
-● Adaptability in a Fast-paced Environment
-● Candidate Assessment
-● Employer Branding
-● Data Management & ATS Proficiency
-● Innovative Recruitment Strategies
+● Team Coordination or Leadership</br>
+● Process Improvement</br>
+● Intermediary or Communication Skills</br>
+● Event Management</br>
+● Relationship Building</br>
+● Problem-solving & Analytical</br>
+● Customer Oriented</br>
+● Operational Excellence</br>
+● Attention to Detail</br>
+● Collaboration</br>
+● Adaptability in a Fast-paced Environment</br>
+● Administration</br>
+● Scheduling and Meeting</br>
+● Coordination
 
 ## SUCCESS HIGHLIGHTS
-● Exceeded recruitment targets by 20% consistently, enhancing team performance.
-● Implemented innovative strategies, improving candidate quality by 30%.
-● Received "Outstanding Performance" award for leadership at Xapic Technologies.
-● Led project revamping candidate evaluation process, increasing conversion rates by 40%.
-● Achieved 95% client retention rate, delivering tailored recruitment solutions.
+● Exceeded recruitment targets by 20% consistently, enhancing team performance.</br>
+● Implemented innovative strategies, improving candidate quality by 30%.</br>
+● Received "Outstanding Performance" award for leadership at Xapic Technologies.</br>
+● Led project revamping candidate evaluation process, increasing conversion rates by 40%.</br>
+● Achieved 95% client retention rate, delivering tailored recruitment solutions.</br>
 ● Completed Tech Recruitment Certified Professional program with distinction.
 
 ## CERTIFICATION
