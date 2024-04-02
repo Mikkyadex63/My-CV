@@ -4,7 +4,7 @@
 ● [Linkedin](https://www.linkedin.com/in/michael-ademeso/)</br>
 ● [Phone](+2349123559437)
 ## Resume
-## Experienced Senior Recruiter | Transitioning to Recruitment Specialist
+## Experienced Senior Recruiter | Transitioning to Recruitment Specialist | Team Leader
 ## PROFESSIONAL PROFILE
 Experienced Senior Recruiter with a focus on talent acquisition for blockchain and diverse roles. Transitioning to a specialized role as a Recruitment Specialist to coordinate recruitment activities and manage placements, leveraging strong leadership and strategic thinking to drive organizational success.
 ## EXPERIENCE
@@ -35,7 +35,6 @@ Ajayi Crowther University, Oyo </br>
 B.Sc. Computer Science
 
 ## SKILLS SUMMARY
-● Microsoft Office Suite                           (78%)</br>
 ● Microsoft Office Suite                           (78%)</br>
 ● Google Calendar                                  (95%)</br>
 ● ATS (Applicant Tracking System) Management       (70%)</br>
