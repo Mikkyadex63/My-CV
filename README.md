@@ -4,11 +4,16 @@
 ● [Linkedin](https://www.linkedin.com/in/michael-ademeso/)</br>
 ● [Phone](+2349123559437)</br>
 ● Lagos
+
 ## Resume
+
 ## HR Executive || Recruitment || Talent/Product Management
+
 ## PROFESSIONAL PROFILE
 A highly skilled and dedicated Human Resources professional with over 4 years of comprehensive experience in recruitment, talent acquisition, and human resources. Proficient in developing and implementing effective recruiting strategies to attract top talent, managing end-to-end recruitment processes, and ensuring a positive candidate experience. Demonstrated expertise in candidate screening, interviewing, and onboarding, with a strong focus on compliance with employment laws, promoting employer branding and collaborating with stakeholders to understand hiring needs.
+
 ## EXPERIENCE
+
 ### HR Executive | Hybrid
 #### Jan 2023 - Present Xapic Technologies (Lagos, Nigeria)
 ● Develop and implement effective recruiting strategies to attract top talent.</br>
@@ -17,6 +22,7 @@ and hiring teams.</br>
 ● Ensure a positive and professional experience for all candidates throughout the recruitment process</br>.
 ● Conduct thorough screening and interviewing of candidates to assess their qualifications and fit for the company culture</br>.
 ● Utilize tools such as Trello, Jira, and Greenhouse for recruitment and project management.
+
 ### Talent Acquisition Specialist | Remote
 #### Apr 2021 – Dec 2023 Pariti (Nairobi, Kenya)
 ● Successfully sourced, screened, and recruited qualified candidates for various technical and non-technical positions.</br>
@@ -26,6 +32,7 @@ and hiring teams.</br>
 ● Acted as a primary point of contact between candidates and the internal team, facilitating a smooth and positive
   recruitment experience.</br>
 ● Leveraged Google Suite (mail, docs, forms, sheets) and Slack for communication and documentation.
+
 ### Technical Recruiter | Freelance | Remote
 #### Oct 2020 - Mar 2021 Huntly (Palo Alto, CA)
 ● Actively sourced and identified tech talent for international product companies.</br>
