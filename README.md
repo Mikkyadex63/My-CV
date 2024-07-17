@@ -22,7 +22,7 @@ A highly skilled and dedicated Human Resources professional with over 4 years of
 ## EXPERIENCE
 
 ### HR Executive | Hybrid
-#### Jan 2023 - Present Xapic Technologies (Lagos, Nigeria)
+#### Jan 2023 - Present Xapic Technologies (Lekki, Lagos)
 ● Develop and implement effective recruiting strategies to attract top talent.</br>
 ● Coordinate recruitment activities, including scheduling interviews and managing communication between candidates
   and hiring teams.</br>
@@ -50,7 +50,7 @@ A highly skilled and dedicated Human Resources professional with over 4 years of
 ● Served as a liaison between candidates and hiring managers, ensuring a smooth and positive candidate experience.
 
 ### Human Resources Intern | Onsite
-#### Apr 2017 – Sep 2017 TNT Networks Services (Lagos, Nigeria)
+#### Apr 2017 – Sep 2017 TNT Networks Services (Sabo, Ikorodu)
 ● Played a key role in the recruitment and selection process, contributing to the screening of resumes, conducting
   interviews, and organizing recruitment events.</br>
 ● Created new hire folders and orientation paperwor.</br>
