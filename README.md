@@ -2,67 +2,59 @@
 ### Contact
 ● [Email](ademesomichael2@gmail.com)</br>
 ● [Linkedin](https://www.linkedin.com/in/michael-ademeso/)</br>
-● [Phone](+2349123559437)
+● [Phone](+2349123559437)</br>
+● Lagos
 ## Resume
-## Experienced Senior Recruiter | Transitioning to Recruitment Specialist | Team Leader
+## HR Executive || Recruitment || Talent/Product Management
 ## PROFESSIONAL PROFILE
-Experienced Senior Recruiter with a focus on talent acquisition for blockchain and diverse roles. Transitioning to a specialized role as a Recruitment Specialist to coordinate recruitment activities and manage placements, leveraging strong leadership and strategic thinking to drive organizational success.
+A highly skilled and dedicated Human Resources professional with over 4 years of comprehensive experience in recruitment, talent acquisition, and human resources. Proficient in developing and implementing effective recruiting strategies to attract top talent, managing end-to-end recruitment processes, and ensuring a positive candidate experience. Demonstrated expertise in candidate screening, interviewing, and onboarding, with a strong focus on compliance with employment laws, promoting employer branding and collaborating with stakeholders to understand hiring needs.
 ## EXPERIENCE
-### Senior recruiter | Remote
-#### Feb 2020 – Present Xapic Technologies (Lagos, Nigeria)
-● Talent acquisition for Blockchain & diverse roles.</br>
-● Led team, used Jira for project management.</br>
-● Streamlined workflows, aided team formation.
-### Technical & Non-Technical Recruiter | Remote
-#### April 2022 - August 2023 Pariti (Nairobi, Kenya)
-● Sourced and screened candidates for various positions.</br>
-● Intermediary between candidates and clients.</br>
-● Aligned candidates with client needs for diverse roles.
-### Talent Acquisition Specialist | Hybrid
-#### Oct 2017 – Jan 2020 Zijela ICT (Lagos, Nigeria)
-● Led end-to-end recruitment, enhancing candidate quality.</br>
-● Provided administrative support, streamlining processes.</br>
-● Conducted thorough interviews, ensuring rigorous evaluation.
+### HR Executive | Hybrid
+#### Jan 2023 - Present Xapic Technologies (Lagos, Nigeria)
+● Develop and implement effective recruiting strategies to attract top talent.</br>
+● Coordinate recruitment activities, including scheduling interviews and managing communication between candidates
+and hiring teams.</br>
+● Ensure a positive and professional experience for all candidates throughout the recruitment process</br>.
+● Conduct thorough screening and interviewing of candidates to assess their qualifications and fit for the company culture</br>.
+● Utilize tools such as Trello, Jira, and Greenhouse for recruitment and project management.
+### Talent Acquisition Specialist | Remote
+#### Apr 2021 – Dec 2023 Pariti (Nairobi, Kenya)
+● Successfully sourced, screened, and recruited qualified candidates for various technical and non-technical positions.</br>
+● Managed the job posting process, ensuring clear and consistent communication with candidates.</br>
+● Conducted screening calls with candidates to assess their fit for open positions.</br>
+● Managed the job posting process, ensuring clear and consistent communication with candidates.</br>
+● Acted as a primary point of contact between candidates and the internal team, facilitating a smooth and positive
+  recruitment experience.</br>
+● Leveraged Google Suite (mail, docs, forms, sheets) and Slack for communication and documentation.
+### Technical Recruiter | Freelance | Remote
+#### Oct 2020 - Mar 2021 Huntly (Palo Alto, CA)
+● Actively sourced and identified tech talent for international product companies.</br>
+● Utilized various channels such as job boards, social media, networking events, and Huntly’s platform to find suitable
+  candidates.</br>
+● Conducted initial phone screens and interviews to assess candidate qualifications, experience, and cultural fit.</br>
+● Built and maintained strong relationships with candidates throughout the recruitment process.</br>
+● Served as a liaison between candidates and hiring managers, ensuring a smooth and positive candidate experience.
 
 ### Human Resources Intern | Onsite
 #### Apr 2017 – Sep 2017 TNT Networks Services (Lagos, Nigeria)
-● Contributed to recruitment process, including screening and interviews.</br>
-● Contributed to the onboarding process, ensuring seamless integration for new employees.</br>
-● Ensured compliance with labor laws, participated in policy updates.
+● Played a key role in the recruitment and selection process, contributing to the screening of resumes, conducting
+  interviews, and organizing recruitment events.</br>
+● Created new hire folders and orientation paperwor.</br>
+● Analyzed and verified applicant references; collaborated with the HR team to ensure compliance with labor laws.</br>
+● Supported the HR team with administrative tasks and maintaining employee records.</br>
+● Assisted in the onboarding process, ensuring new hires had a smooth transition into their roles.
   
 ## EDUCATION
-Ajayi Crowther University, Oyo </br>
+Ajayi Crowther University, Oyo             2015 - 2018</br>
 B.Sc. Computer Science
+Class President, 2016 -2018
 
-## SKILLS SUMMARY
-● Microsoft Office Suite                           (78%)</br>
-● Google Calendar                                  (95%)</br>
-● ATS (Applicant Tracking System) Management       (70%)</br>
-● Organization & Multi-tasking                     (81%)
-
-## SKILLS
-● Team Coordination or Leadership</br>
-● Process Improvement</br>
-● Intermediary or Communication Skills</br>
-● Event Management</br>
-● Relationship Building</br>
-● Problem-solving & Analytical</br>
-● Customer Oriented</br>
-● Operational Excellence</br>
-● Attention to Detail</br>
-● Collaboration</br>
-● Adaptability in a Fast-paced Environment</br>
-● Administration</br>
-● Scheduling and Meeting</br>
-● Coordination
-
-## SUCCESS HIGHLIGHTS
-● Exceeded recruitment targets by 20% consistently, enhancing team performance.</br>
-● Implemented innovative strategies, improving candidate quality by 30%.</br>
-● Received "Outstanding Performance" award for leadership at Xapic Technologies.</br>
-● Led project revamping candidate evaluation process, increasing conversion rates by 40%.</br>
-● Achieved 95% client retention rate, delivering tailored recruitment solutions.</br>
-● Completed Tech Recruitment Certified Professional program with distinction.
+## TECHNICAL SKILLS
+● Recruitment Tools & ATS Systems: Greenhouse, Teamtailor</br>
+● Project Management Tools: Familiar with Trello, Jira</br>
+● Communication & Collaboration Tools: Google Suite (mail, docs, forms, sheets), Slack (chat)</br>
+● Office Productivity Tools: Microsoft Office Suite (Word, PowerPoint, Excel)</br>
+● Sourcing & Networking: Social media, job boards, networking events</br>
 
 ## CERTIFICATION
 #### Great Learning Human Resource Management Certification
