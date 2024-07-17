@@ -18,7 +18,7 @@ A highly skilled and dedicated Human Resources professional with over 4 years of
 #### Jan 2023 - Present Xapic Technologies (Lagos, Nigeria)
 ● Develop and implement effective recruiting strategies to attract top talent.</br>
 ● Coordinate recruitment activities, including scheduling interviews and managing communication between candidates
-and hiring teams.</br>
+  and hiring teams.</br>
 ● Ensure a positive and professional experience for all candidates throughout the recruitment process</br>.
 ● Conduct thorough screening and interviewing of candidates to assess their qualifications and fit for the company culture</br>.
 ● Utilize tools such as Trello, Jira, and Greenhouse for recruitment and project management.
@@ -76,6 +76,9 @@ Class President, 2016 -2018
 ![certificate of completion for hirist employer branding certification course](/Certifications/Hirist_employer_branding.jpeg)
 #### Hirist Tech Recruitment Certification
 ![hirist tech recruitment certification](/Certifications/Hirist_tech_recruiter.jpeg)
+#### Great Learning Blockchain Basics Certification
+![Blockchain Basics JPEG](https://github.com/user-attachments/assets/02c9683a-af32-405d-adaf-380ee79ac4c9)
+
 
 ## LANGUAGE
 English
