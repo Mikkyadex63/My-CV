@@ -12,6 +12,13 @@
 ## PROFESSIONAL PROFILE
 A highly skilled and dedicated Human Resources professional with over 4 years of comprehensive experience in recruitment, talent acquisition, and human resources. Proficient in developing and implementing effective recruiting strategies to attract top talent, managing end-to-end recruitment processes, and ensuring a positive candidate experience. Demonstrated expertise in candidate screening, interviewing, and onboarding, with a strong focus on compliance with employment laws, promoting employer branding and collaborating with stakeholders to understand hiring needs.
 
+## TECHNICAL SKILLS
+● Recruitment Tools & ATS Systems: Greenhouse, Teamtailor</br>
+● Project Management Tools: Familiar with Trello, Jira</br>
+● Communication & Collaboration Tools: Google Suite (mail, docs, forms, sheets), Slack (chat)</br>
+● Office Productivity Tools: Microsoft Office Suite (Word, PowerPoint, Excel)</br>
+● Sourcing & Networking: Social media, job boards, networking events</br>
+
 ## EXPERIENCE
 
 ### HR Executive | Hybrid
@@ -55,13 +62,6 @@ A highly skilled and dedicated Human Resources professional with over 4 years of
 Ajayi Crowther University, Oyo             2015 - 2018</br>
 B.Sc. Computer Science
 Class President, 2016 -2018
-
-## TECHNICAL SKILLS
-● Recruitment Tools & ATS Systems: Greenhouse, Teamtailor</br>
-● Project Management Tools: Familiar with Trello, Jira</br>
-● Communication & Collaboration Tools: Google Suite (mail, docs, forms, sheets), Slack (chat)</br>
-● Office Productivity Tools: Microsoft Office Suite (Word, PowerPoint, Excel)</br>
-● Sourcing & Networking: Social media, job boards, networking events</br>
 
 ## CERTIFICATION
 #### Great Learning Human Resource Management Certification
