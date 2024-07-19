@@ -7,13 +7,13 @@
 
 ## Resume
 
-## HR Executive || Recruitment || Talent/Product Management
+## Experienced Technical Recruiter || Talent Sourcer || Recruitment || Top Tech Recruiter
 
 ## PROFESSIONAL PROFILE
 A highly skilled and dedicated Human Resources professional with over 4 years of comprehensive experience in recruitment, talent acquisition, and human resources. Proficient in developing and implementing effective recruiting strategies to attract top talent, managing end-to-end recruitment processes, and ensuring a positive candidate experience. Demonstrated expertise in candidate screening, interviewing, and onboarding, with a strong focus on compliance with employment laws, promoting employer branding and collaborating with stakeholders to understand hiring needs.
 
 ## TECHNICAL SKILLS
-● Recruitment Tools & ATS Systems: Greenhouse, Teamtailor</br>
+● Recruitment Tools & ATS Systems: Familiar with Greenhouse, Teamtailor, Nova (Procicient)</br>
 ● Project Management Tools: Familiar with Trello, Jira</br>
 ● Communication & Collaboration Tools: Google Suite (mail, docs, forms, sheets), Slack (chat)</br>
 ● Office Productivity Tools: Microsoft Office Suite (Word, PowerPoint, Excel)</br>
