@@ -10,7 +10,12 @@
 ## Experienced Technical Recruiter || Talent Sourcer || Recruitment || Top Tech Recruiter
 
 ## PROFESSIONAL PROFILE
-A highly skilled and dedicated Human Resources professional with over 4 years of comprehensive experience in recruitment, talent acquisition, and human resources. Proficient in developing and implementing effective recruiting strategies to attract top talent, managing end-to-end recruitment processes, and ensuring a positive candidate experience. Demonstrated expertise in candidate screening, interviewing, and onboarding, with a strong focus on compliance with employment laws, promoting employer branding and collaborating with stakeholders to understand hiring needs.
+A highly skilled Technical Recruiter with over three years of experience in sourcing, screening, and recruiting top talent for both
+technical and non-technical roles. Proficient in utilizing various sourcing channels, including job boards, social media, and networking
+events, to identify and attract highly qualified candidates. Strong communication and organizational skills, with a commitment to
+compliance and continuous improvement in recruitment practices. Experienced in leveraging tools like Google Suite and Slack for
+efficient communication and documentation. Adept at building and maintaining relationships with candidates and stakeholders to
+achieve successful placements and foster a positive recruitment experience.
 
 ## TECHNICAL SKILLS
 ● Recruitment Tools & ATS Systems: Familiar with Greenhouse, Teamtailor, Nova (Procicient)</br>
