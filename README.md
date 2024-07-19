@@ -21,17 +21,8 @@ A highly skilled and dedicated Human Resources professional with over 4 years of
 
 ## EXPERIENCE
 
-### HR Executive | Hybrid
-#### Jan 2023 - Present Xapic Technologies (Lekki, Lagos)
-● Develop and implement effective recruiting strategies to attract top talent.</br>
-● Coordinate recruitment activities, including scheduling interviews and managing communication between candidates
-  and hiring teams.</br>
-● Ensure a positive and professional experience for all candidates throughout the recruitment process</br>.
-● Conduct thorough screening and interviewing of candidates to assess their qualifications and fit for the company culture</br>.
-● Utilize tools such as Trello, Jira, and Greenhouse for recruitment and project management.
-
 ### Talent Acquisition Specialist | Remote
-#### Apr 2021 – Dec 2023 Pariti (Nairobi, Kenya)
+#### Apr 2021 – Present Pariti (Nairobi, Kenya)
 ● Successfully sourced, screened, and recruited qualified candidates for various technical and non-technical positions.</br>
 ● Managed the job posting process, ensuring clear and consistent communication with candidates.</br>
 ● Conducted screening calls with candidates to assess their fit for open positions.</br>
