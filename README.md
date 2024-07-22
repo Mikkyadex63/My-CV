@@ -7,26 +7,19 @@
 
 ## Resume
 
-## Experienced Technical Recruiter || Talent Sourcer || Recruitment || Top Tech Recruiter
+## Experienced HR & Talent Acquisition Specialist || Recruitment || Employee Relations || HR Operations
 
 ## PROFESSIONAL PROFILE
-A highly skilled Technical Recruiter with over three years of experience in sourcing, screening, and recruiting top talent for both
-technical and non-technical roles. Proficient in utilizing various sourcing channels, including job boards, social media, and networking
-events, to identify and attract highly qualified candidates. Strong communication and organizational skills, with a commitment to
-compliance and continuous improvement in recruitment practices. Experienced in leveraging tools like Google Suite and Slack for
-efficient communication and documentation. Adept at building and maintaining relationships with candidates and stakeholders to
-achieve successful placements and foster a positive recruitment experience.
+Experienced HR and Talent Acquisition Specialist with a strong background in recruitment, employee relations, and HR operations. Proven ability to manage end-to-end recruitment processes, collaborate with cross-functional teams, and support organizational growth. Eager to expand expertise in global HR compliance, HRIS management, and IT-related People Operations.
 
-## TECHNICAL SKILLS
-● Recruitment Tools & ATS Systems: Familiar with Greenhouse, Teamtailor, Nova (Procicient)</br>
-● Project Management Tools: Familiar with Trello, Jira</br>
-● Communication & Collaboration Tools: Google Suite (mail, docs, forms, sheets), Slack (chat)</br>
-● Office Productivity Tools: Microsoft Office Suite (Word, PowerPoint, Excel)</br>
-● Sourcing & Networking: Social media, job boards, networking events</br>
+## EDUCATION
+Ajayi Crowther University, Oyo                                                                             2015 - 2018</br>
+B.Sc. Computer Science
+Class President, 2016 -2018
 
 ## EXPERIENCE
 
-### Talent Acquisition Specialist | Remote
+###  Talent Acquisition Specialist | Remote
 #### Apr 2021 – Present Pariti (Nairobi, Kenya)
 ● Successfully sourced, screened, and recruited qualified candidates for various technical and non-technical positions.</br>
 ● Managed the job posting process, ensuring clear and consistent communication with candidates.</br>
@@ -36,7 +29,7 @@ achieve successful placements and foster a positive recruitment experience.
   recruitment experience.</br>
 ● Leveraged Google Suite (mail, docs, forms, sheets) and Slack for communication and documentation.
 
-### Technical Recruiter | Freelance | Remote
+###  Technical Recruiter | Freelance | Remote
 #### Oct 2020 - Mar 2021 Huntly (Palo Alto, CA)
 ● Actively sourced and identified tech talent for international product companies.</br>
 ● Utilized various channels such as job boards, social media, networking events, and Huntly’s platform to find suitable
@@ -45,7 +38,7 @@ achieve successful placements and foster a positive recruitment experience.
 ● Built and maintained strong relationships with candidates throughout the recruitment process.</br>
 ● Served as a liaison between candidates and hiring managers, ensuring a smooth and positive candidate experience.
 
-### Human Resources Intern | Onsite
+###  Human Resources Intern | Onsite
 #### Apr 2017 – Sep 2017 TNT Networks Services (Sabo, Ikorodu)
 ● Played a key role in the recruitment and selection process, contributing to the screening of resumes, conducting
   interviews, and organizing recruitment events.</br>
@@ -54,10 +47,70 @@ achieve successful placements and foster a positive recruitment experience.
 ● Supported the HR team with administrative tasks and maintaining employee records.</br>
 ● Assisted in the onboarding process, ensuring new hires had a smooth transition into their roles.
   
-## EDUCATION
-Ajayi Crowther University, Oyo             2015 - 2018</br>
-B.Sc. Computer Science
-Class President, 2016 -2018
+##  TECHNICAL SKILLS
+### 1. Recruitment & Talent Acquisition:
+
+
+          ● Full-cycle recruitment</br>
+          ● Sourcing and screening candidates</br>
+          ● Interviewing and selection</br>
+          ● Talent pipeline management</br>
+          ● Collaboration with hiring managers and stakeholders</br>
+          ● Experience with external recruitment agencies</br>
+
+### 2. HR Operations & Compliance:
+
+
+          ● Employee onboarding and offboarding</br>
+          ● Policy development and implementation</br>
+          ● Employee relations and support</br>
+          ● HR compliance with local employment laws</br>
+          ● Performance management</br>
+          ● Compensation and benefits administration</br>
+
+
+### 3. Project & Program Management:
+
+          ● Project planning and execution</br>
+          ● Cross-functional collaboration</br>
+          ● Managing competing priorities</br>
+          ● Utilization of project management tools (Jira, Trello)</br>
+
+
+### 4. HR Technology & Tools:
+
+
+          ● Applicant Tracking Systems (ATS): Teamtailor, Greenhouse</br>
+          ● HR Information Systems (HRIS): Quick learner of new HR technologies</br>
+          ● Microsoft Office Suite: Word, Excel, PowerPoint</br>
+          ● Google Suite: Gmail, Docs, Sheets, Forms</br>
+          ● Communication tools: Slack</br>
+
+
+ ### 5. Communication & Interpersonal Skills:
+
+
+          ● Advanced English proficiency (spoken and written)</br>
+          ● Cross-cultural communication</br>
+          ● Stakeholder management</br>
+          ● Empathy and people skills</br>
+          ● Conflict resolution and negotiation</br>
+
+
+### 6. Additional Skills:
+
+
+        ● Executive Search</br>
+        ● Market Research</br>
+        ● Talent Sourcing</br>
+        ● Stakeholder Management</br>
+        ● Employee Relations</br>
+        ● HR Operations</br>
+        ● Onboarding</br>
+        ● Personnel Management</br>
+        ● Policies & Procedures</br>
+        ● Talent Management</br>
+        ● Workplace Culture</br>
 
 ## CERTIFICATION
 #### Great Learning Human Resource Management Certification
@@ -74,7 +127,3 @@ Class President, 2016 -2018
 ![hirist tech recruitment certification](/Certifications/Hirist_tech_recruiter.jpeg)
 #### Great Learning Blockchain Basics Certification
 ![Blockchain Basics JPEG](https://github.com/user-attachments/assets/02c9683a-af32-405d-adaf-380ee79ac4c9)
-
-
-## LANGUAGE
-English
