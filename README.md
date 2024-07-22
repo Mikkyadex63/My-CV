@@ -1,4 +1,4 @@
-# Michael Adeyemi Ademeso
+# Michael Adeyemi ADEMESO
 ### Contact
 ● [Email](ademesomichael2@gmail.com)</br>
 ● [Linkedin](https://www.linkedin.com/in/michael-ademeso/)</br>
