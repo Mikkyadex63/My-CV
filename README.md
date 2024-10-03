@@ -3,7 +3,7 @@
 ● [Email](ademesomichael2@gmail.com)</br>
 ● [Linkedin](https://www.linkedin.com/in/michael-ademeso/)</br>
 ● [Phone](+2349123559437)</br>
-● [Location](Akure South, Ondo State, Nigeria)
+● [Location](Akure South, Ondo State, Nigeria)</br>
 
 ## Resume
 
