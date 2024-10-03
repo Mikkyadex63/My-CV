@@ -71,22 +71,21 @@ Class Representative, from start to finish
 ● Adaptability, etc.</br>
 
 ### SKILLS:
-
-        ● Adaptability</br>
-        ● Communication</br>
-        ● HR Administration</br>
-        ● Interviewing</br>
-        ● Job Board Posting</br>
-        ● Market Research</br>
-        ● Networking</br>
-        ● Onboarding</br>
-        ● Organization</br>
-        ● Problem-Solving</br>
-        ● Relationship Building</br>
-        ● Screening</br>
-        ● Social Media Recruiting</br>
-        ● Sourcing</br>
-        ● Talent Acquisition</br>
+● Adaptability</br>
+● Communication</br>
+● HR Administration</br>
+● Interviewing</br>
+● Job Board Posting</br>
+● Market Research</br>
+● Networking</br>
+● Onboarding</br>
+● Organization</br>
+● Problem-Solving</br>
+● Relationship Building</br>
+● Screening</br>
+● Social Media Recruiting</br>
+● Sourcing</br>
+● Talent Acquisition</br>
 
 ## CERTIFICATION
 #### Great Learning Human Resource Management Certification
