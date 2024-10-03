@@ -3,7 +3,7 @@
 ● [Email](ademesomichael2@gmail.com)</br>
 ● [Linkedin](https://www.linkedin.com/in/michael-ademeso/)</br>
 ● [Phone](+2349123559437)</br>
-● [Location](Akure South, Ondo State, Nigeria)</br>
+● [Location](Ondo)</br>
 
 ## Resume
 
@@ -23,7 +23,7 @@ Class Representative, from start to finish
 
 ###  Technical Recruiter | Remote
 #### July 2023 – Present Cybadot Technologies (Greater London, England, United Kingdom)
-● Sourced, screened, and hired candidates for various technical roles in the IT sector.
+● Sourced, screened, and hired candidates for various technical roles in the IT sector.</br>
 ● Developed and maintained a network of potential candidates through proactive market research and 
   ongoing relationship management.</br>
 ● Conducted thorough interviews to assess candidates' skills, experience, and cultural fit.</br>
@@ -60,33 +60,33 @@ Class Representative, from start to finish
 ● Assisted in the onboarding process, ensuring new hires had a smooth transition into their roles.</br>
   
 ##  TECHNICAL SKILLS : 
-● Applicant Tracking Systems (Proficient in Greenhouse)
-● Social Media Recruiting 
-● Interviewing Techniques, etc.
+● Applicant Tracking Systems (Proficient in Greenhouse)</br>
+● Social Media Recruiting</br> 
+● Interviewing Techniques, etc.</br>
 
 ##  SOFT SKILLS : 
-● Communication   
-● Problem-Solving
-● Organization
-● Adaptability, etc.
+● Communication</br>   
+● Problem-Solving</br>
+● Organization</br>
+● Adaptability, etc.</br>
 
 ### SKILLS:
 
-        ● Adaptability
-        ● Communication
-        ● HR Administration
-        ● Interviewing
-        ● Job Board Posting
-        ● Market Research
-        ● Networking
-        ● Onboarding
-        ● Organization
-        ● Problem-Solving
-        ● Relationship Building
-        ● Screening
-        ● Social Media Recruiting
-        ● Sourcing
-        ● Talent Acquisition
+        ● Adaptability</br>
+        ● Communication</br>
+        ● HR Administration</br>
+        ● Interviewing</br>
+        ● Job Board Posting</br>
+        ● Market Research</br>
+        ● Networking</br>
+        ● Onboarding</br>
+        ● Organization</br>
+        ● Problem-Solving</br>
+        ● Relationship Building</br>
+        ● Screening</br>
+        ● Social Media Recruiting</br>
+        ● Sourcing</br>
+        ● Talent Acquisition</br>
 
 ## CERTIFICATION
 #### Great Learning Human Resource Management Certification
